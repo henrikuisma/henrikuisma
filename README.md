@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hi, I’m Henri — a Computer Science student at Tampere University. Welcome to my GitHub!</h2>
+<h2 align="left">👋 Hi, I’m Henri — Welcome to my GitHub!</h2>
 
 ###
 
