@@ -2,7 +2,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="swift logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
@@ -33,8 +33,8 @@
 </div>
 
 ###
-
-<div align="left">
+<br clear="both">
+<div align="center">
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=henrikuisma&show_icons=true&locale=en&layout=compact" alt="henrikuisma" /></p>
 </div>
 
@@ -42,6 +42,9 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/henrikuisma/henrikuisma/output/snake.svg" alt="Snake animation" />
-
+<picture aling="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
