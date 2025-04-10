@@ -1,6 +1,7 @@
 <h2 align="center">👋 Hi, I’m Henri — Welcome to my GitHub!</h2>
 
 ###
+<br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="swift logo"  />
@@ -33,18 +34,10 @@
 </div>
 
 ###
-<br clear="both">
 <div align="center">
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=henrikuisma&show_icons=true&locale=en&layout=compact" alt="henrikuisma" /></p>
-</div>
-
-###
-
-<br clear="both">
-
-<picture aling="center">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/henrikuisma/henrikuisma/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/henrikuisma/henrikuisma/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/henrikuisma/henrikuisma/output/github-snake.svg" />
 </picture>
-
+</div>
